@@ -33,6 +33,10 @@ cluster. The cluster at the top of the hierarchy represents the confounders
 for the entire toronto dataset, while the smallest clusters represent the
 latent confounders for ~100 spatially colocated nodes.
 
+# Results
+The observations and final result can be found here: [CSE –472 Project _Report .pdf](https://github.com/rajat641/CMS-CSE324-WebProgramming/files/4026496/CSE.472.Project._Report.pdf)
+
+
 
 # References and Citations
 1. http://www.ucdenver.edu/academics/colleges/PublicHealth/resourcesfor/Faculty/perraillon/perraillonteaching/Documents/week%203%20causal.pdf
