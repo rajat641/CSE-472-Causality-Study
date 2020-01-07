@@ -44,3 +44,11 @@ The observations and final result can be found here: [CSE –472 Project _Report
 3. https://arxiv.org/pdf/1805.06826.pdf
 4. https://colab.research.google.com/github/blei-lab/deconfounder_tutorial/blob/master/deconfounder_tutorial.ipynb#scrollTo=7Ps8ev0rw1km
 5. https://amplitude.com/blog/2017/01/19/causation-correlation
+
+# Install Dependencies
+`pip install -r requirements.txt`
+
+# Run
+
+`jupyter notebook SpatialDeconfounder.ipynb`
+
