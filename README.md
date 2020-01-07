@@ -32,6 +32,7 @@ cluster in our hierarchy and calculated the latent confounders for each
 cluster. The cluster at the top of the hierarchy represents the confounders
 for the entire toronto dataset, while the smallest clusters represent the
 latent confounders for ~100 spatially colocated nodes.
+### The idea of using confounder variables is taken from here https://www.microsoft.com/en-us/research/video/the-blessings-of-multiple-causes/
 
 # Results
 The observations and final result can be found here: [CSE –472 Project _Report .pdf](https://github.com/rajat641/CMS-CSE324-WebProgramming/files/4026496/CSE.472.Project._Report.pdf)
@@ -44,6 +45,7 @@ The observations and final result can be found here: [CSE –472 Project _Report
 3. https://arxiv.org/pdf/1805.06826.pdf
 4. https://colab.research.google.com/github/blei-lab/deconfounder_tutorial/blob/master/deconfounder_tutorial.ipynb#scrollTo=7Ps8ev0rw1km
 5. https://amplitude.com/blog/2017/01/19/causation-correlation
+
 
 # Install Dependencies
 `pip install -r requirements.txt`
