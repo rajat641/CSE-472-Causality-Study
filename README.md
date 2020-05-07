@@ -1,5 +1,5 @@
 # CSE-472-Causality-Study
-Our task is to find which part (e.g., a word, phrase, or an aspect of a restaurant) of the review written by a user is causally related to the rating she/he gives using the Yelp online reviews data, and estimate the causal effects. 
+Our task was to find which part (e.g., a word, phrase, or an aspect of a restaurant) of the review written by a user is causally related to the rating she/he gives using the Yelp online reviews data, and estimate the causal effects. 
 We have used causal inference methods and  natural language processing models on Yelp data.
 
 # Multi Aspect Sentiment Analysis
