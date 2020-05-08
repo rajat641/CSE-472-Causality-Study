@@ -3,6 +3,7 @@
 I read this very interesting definition of Causality and Correaltion:
 * Correlation - Diaper sales increases with Beer sales on weekends
 * Causation - Babies need beer on weekends.
+
 There is a very nice youtube video on this concept. Here is the [Link](https://www.youtube.com/watch?v=ROpbdO-gRUo) .
 
 # Causality-Study
