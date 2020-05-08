@@ -4,7 +4,7 @@ I read this very interesting definition of Causality and Correaltion:
 * Correlation - Diaper sales increases with Beer sales on weekends
 * Causation - Babies need beer on weekends.
 
-There is a very nice youtube video on this concept. Here is the [Link](https://www.youtube.com/watch?v=ROpbdO-gRUo) .
+There is a very good and simple youtube video on this concept. Here is the [Link](https://www.youtube.com/watch?v=ROpbdO-gRUo) .
 
 # Causality-Study
 Our task was to find which part (e.g., a word, phrase, or an aspect of a restaurant) of the review written by a user is causally related to the rating she/he gives using the Yelp online reviews data, and estimate the causal effects. 
