@@ -1,5 +1,5 @@
 
-#### First, we need to understand the meaning of Causality and difference between Causality and Correlation.
+##### First, we need to understand the meaning of Causality and difference between Causality and Correlation.
 I read this very interesting definition of Causality and Correaltion:
 * Correlation - Diaper sales increases with Beer sales on weekends
 * Causation - Babies need beer on weekends.
